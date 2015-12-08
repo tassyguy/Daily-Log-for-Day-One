@@ -3,7 +3,7 @@ dayone://post?entry=My Daily Review
 |:---|:---|
 |Rating|[list:Out of 5 stars, how was your day?|★☆☆☆☆|★★☆☆☆|★★★☆☆|★★★★☆|★★★★★]
 |Summary|[prompt: In one word, how was today?]|
-|Medication|[list: Did you take your medications today?|Yes|No]|
+|Medication|[list: Did you take your medications today?|Yes|No|I don't take medications]|
 |Productivity|[list: Were you productive today?|Yes|No]|
 |Satisfaction|[list: Am I happy with what I did today?|Yes|No]|
 |Relaxation|[list: Did you have time to relax or destress today?|Yes|No]|
