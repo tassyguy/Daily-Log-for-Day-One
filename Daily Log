@@ -1,0 +1,18 @@
+dayone://post?entry=My Daily Review
+|Daily Review||
+|:---|:---|
+|Rating|[list:Out of 5 stars, how was your day?|★☆☆☆☆|★★☆☆☆|★★★☆☆|★★★★☆|★★★★★]
+|Summary|[prompt: In one word, how was today?]|
+|Medication|[list: Did you take your medications today?|Yes|No]|
+|Productivity|[list: Were you productive today?|Yes|No]|
+|Satisfaction|[list: Am I happy with what I did today?|Yes|No]|
+|Relaxation|[list: Did you have time to relax or destress today?|Yes|No]|
+|Friends|[list: Did you talk to any of your friends today?|Yes|No]|
+|Immediate Family|[list: Did you talk to any of your immediate family members today?|Yes|No]|
+|Extended Family|[list: Did you talk to any of your extended family members today?|Yes|No]|
+|Goals|[list:Any progress toward my goals?|Yes|No]|
+|Lessons|[prompt:What did I learn?]|
+|Physical Exercise|[list: Did I workout today?|Yes|No]|
+|Grateful|[prompt:What am I grateful for?]|
+|Lessons|[prompt:What is your goal for tomorrow?]|
+|Notes|[prompt:Is there anything else you wanna say about today?]|
